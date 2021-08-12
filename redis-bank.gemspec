@@ -3,7 +3,6 @@ Gem::Specification.new do |s|
   s.version = '0.1.4'
   s.summary = 'Redis-backed Bank for the Money gem'
   s.description = 'Redis-backed Bank for the Money gem based on the VariableExchange Bank'
-  s.has_rdoc = 'yard'
   s.files = %w(
     README.md
     LICENSE.txt
